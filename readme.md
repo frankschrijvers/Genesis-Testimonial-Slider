@@ -48,14 +48,13 @@ Add the Testimonial widget to a widget area or use the shortcode.
 
 ## Screenshots
 
-1.
 *Testimonial slider default styling*
 ![Screenshot 1](https://www.wpstud.io/wp-content/uploads/2017/03/screenshot-1-1.jpg)
-2.
+
 *Testimonial slider integrated in theme*
 ![Screenshot 2](https://www.wpstud.io/wp-content/uploads/2017/03/screenshot-2-1.jpg)
 
-3.
+
 *Testimonial slider admin panel*
 ![CScreenshot 3](https://www.wpstud.io/wp-content/uploads/2017/03/screenshot-3-1.jpg)
 
